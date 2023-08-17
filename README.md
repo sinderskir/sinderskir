@@ -4,7 +4,7 @@ My name is Rafaela Sinderski. I'm a Brazilian data journalist and researcher foc
 
 I am always available to exchange ideas about projects involving political violence, gender, and data. Please reach out to me if you'd like to share your thoughts on these topics (or just want to say hi).
 
-[Click me]([https://www.example.com](https://www.rafaelasinderski.com.br/)
+[Click me](https://www.rafaelasinderski.com.br/)
 
 ![Website][https://www.rafaelasinderski.com.br/] [![LinkedIn]][www.linkedin.com/in/rafaelasinderski] [![Twitter]][https://twitter.com/sinderskir]
 
