@@ -8,3 +8,8 @@
 [![Static Badge](https://img.shields.io/badge/twitter-green?style=for-the-badge&logo=twitter&logoColor=white&color=%2368B26F)](https://twitter.com/sinderskir)
 [![Static Badge](https://img.shields.io/badge/linkedin-green?style=for-the-badge&logo=linkedin&logoColor=white&color=%2368B26F)](https://www.linkedin.com/in/rafaelasinderski/)
 
+### Oi! 🙃
+
+💬 Sou jornalista de dados e pesquisadora focada em conflito político, violência de gênero e liberdade de imprensa, que vê a comunicação como uma ferramenta para ***proteger a democracia e combater desigualdades***. Participei do *Lede Program 2023* na *Columbia University*, em NOva Iorque, e tenho praticado minhas habilidades de programação desde então.
+
+📬 Estou sempre disponível para trocar ideias sobre projetos que envolvam violência política, gênero e dados. Entre em contato se quiser conversar sobre esses temas (ou simplesmente dizer um "oi" :wave:).
